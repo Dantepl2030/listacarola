@@ -92,7 +92,7 @@
       // Validar que ambos campos no estén vacíos
       if (name && email) {
         // Redirigir a la página de MercadoPago con la URL correspondiente
-        window.location.href = "https://link.mercadopago.cl/milista";
+        window.location.href = "https://mpago.la/1WjgaFM";
       } else {
         alert("Por favor, completa todos los campos.");
       }
